@@ -27,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=higor-matos&show_icons=true&theme=dracula&locale=en&layout=compact" alt="higor-matos" /></p>
 
-</p>
+<p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=higor-matos&show_icons=true&theme=dracula&locale=en" alt="higor-matos" /></p>
 
