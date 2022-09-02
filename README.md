@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=higor-matos&show_icons=true&theme=dracula&locale=en" alt="higor-matos" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=higor-matos&theme=dark" alt="higor-matos" /></p> 
+
+![Snake animation](https://github.com/Higor-Matos/blob/output/github-contribution-grid-snake.svg)
