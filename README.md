@@ -33,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=higor-matos&theme=dark" alt="higor-matos" /></p> 
 
-![Snake animation](https://github.com/Higor-Matos/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Higor-Matos/Higor-Matos/blob/output/github-contribution-grid-snake.svg)
