@@ -1,5 +1,8 @@
-<h1 align="center">Olá <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI0OTJjMTIzN2Y3ZDJmODFhMjI2MzE3ZmU5YjQzYjk0ZTMxYTYxOCZjdD1z/Ccfh9bWzhQqS5G4Tvz/giphy.gif" alt="waving-hand" width="30"/> , meu nome é Higor de Deus</h1>
-<h3 align="center">Estudante de Sistemas de Informação, desenvolvedor, analista de infraestrutura e consultor de implantação.</h3>
+<h1 align="center">Olá <img src="https://github.com/Higor-Matos/Higor-Matos/blob/main/pikachuBye.gif" height="100em">, meu nome é Higor de Deus.</h1>
+
+
+<h3 style="text-align:center; font-size:18px;">Sou estudante de Sistemas de Informação, atuo como desenvolvedor.</h3> 
+Aqui está uma melhoria sugerida para o código HTML. Usei o estilo inline "text-align:center" para centralizar o texto e "font-size:18px" para definir o tamanho da fonte como 18 pixels. Lembre-se de que o tamanho da fonte pode ser ajustado de acordo com a sua preferência.
 
 - 🔭 Atualmente estou trabalhando em uma aplicação de gerenciamento de redes de computadores, utilizando ReactJs e C#.
 
