@@ -15,7 +15,7 @@ Aqui você pode encontrar uma visão geral dos meus projetos e das tecnologias c
 
 - Aplicação de gerenciamento de redes de computadores utilizando ReactJs e C#
 - Colaboração no projeto [AdguardDNS](https://github.com/AdguardTeam/AdGuardDNS)
-- Todos os meus projetos estão disponíveis [aqui](https://bit.ly/3zR9eXq)
+- Todos os meus projetos estão disponíveis [aqui]([https://bit.ly/3zR9eXq](https://github.com/Higor-Matos?tab=repositories))
 
 ---
 
