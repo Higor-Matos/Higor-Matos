@@ -27,6 +27,34 @@ Aqui você pode encontrar uma visão geral dos meus projetos e das tecnologias c
 
 ---
 
+### 📚 Certificações
+
+## Alura
+
+- MongoDB: modelagem de dados
+- MongoDB: realizando consultas
+- MongoDB: validando dados
+- MongoDB: conhecendo um banco de dados NoSQL
+- C# Collections parte 2: Coleções ordenadas, arrays multidimensionais e LINQ
+- C#: Paralelismo no mundo real
+- C# Reflection parte 1: metadados do seu código .NET
+- C#: entendendo exceções
+- Design Patterns C# II: boas práticas de programação
+- Formação C# e Orientação a Objetos
+- SOLID com C#: princípios da programação orientada a objetos
+- C#: explorando a linguagem
+- C#: orientação a objetos
+- C#: usando herança e implementando interfaces
+- Design Patterns C# I: boas práticas de programação
+- HTTP: Entendendo a web por baixo dos panos
+- React: desenvolvendo com JavaScript
+
+### Noble Work Foundation
+
+- Docker do 0 à Maestria: Contêineres Desmistificados + EXTRAS
+
+---
+
 ### 🌍 Conecte-se comigo:
 
 <a href="https://linkedin.com/in/higor-de-deus-matos-3b0531207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="higor-de-deus-matos-3b0531207" height="30" width="40" /></a>
