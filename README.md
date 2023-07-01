@@ -1,5 +1,5 @@
 <h1 align="center">Olá, 👋 meu nome é Higor de Deus</h1>
-<h3 align="center">🚀 FULLSTACK C# e React </h3>
+<h3 align="center">🚀 Dev C# e React </h3>
 
 ---
 
