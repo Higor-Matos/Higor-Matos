@@ -34,5 +34,5 @@ Techs:
 
 * Cloud Platforms:
   <img align="center" alt="Vercel logo" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-
+  <img align="center" alt="Azure logo" src="https://img.shields.io/badge/microsoftazure-0078D4?style=for-the-badge&logo=microsoftazurel&logoColor=white">
 ---
