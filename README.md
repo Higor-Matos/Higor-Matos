@@ -36,7 +36,3 @@ Techs:
   <img align="center" alt="Vercel logo" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
 ---
-
-<p align="center">
-  <img src="https://github.com/Higor-Matos/Higor-Matos/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
