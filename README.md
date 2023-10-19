@@ -35,9 +35,7 @@ Techs:
 * Cloud Platforms:
   <img align="center" alt="Vercel logo" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
-<h1 align="center">Olá, 👋 meu nome é Higor de Deus</h1>
-<h3 align="center">🚀 Dev C# e React </h3>
-
+---
 
 <p align="center">
   <img src="https://github.com/Higor-Matos/Higor-Matos/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
