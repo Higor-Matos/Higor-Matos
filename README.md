@@ -18,6 +18,7 @@ Techs:
   <img align="center" alt="Python logo" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
   <img align="center" alt="Java Spring Boot logo" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt=".Net logo" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white">
+  <img align="center" alt=".Net logo" src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 
 * Database and data storage:
   <img align="center" alt="Mysql logo" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
@@ -34,5 +35,8 @@ Techs:
 
 * Cloud Platforms:
   <img align="center" alt="Vercel logo" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <img align="center" alt="Azure logo" src="https://img.shields.io/badge/microsoftazure-0078D4?style=for-the-badge&logo=microsoftazurel&logoColor=white">
+  <img align="center" alt="Azure logo" src="https://img.shields.io/badge/microsoftazure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img align="center" alt="AWS" src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 ---
+
+
