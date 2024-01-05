@@ -32,6 +32,8 @@ Techs:
   <img align="center" alt="SonarQube logo" src="https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white">
   <img align="center" alt="Elasticsearch logo" src="https://img.shields.io/badge/Elasticsearch-3cbbb3?style=for-the-badge&logo=elasticsearch&logoColor=white">
   <img align="center" alt="Kibana logo" src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=white">
+  <img align="center" alt="githubactions" src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> 
+
 
 * Cloud Platforms:
   <img align="center" alt="Vercel logo" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
